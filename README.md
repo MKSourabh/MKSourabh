@@ -6,7 +6,7 @@
 - 🚀 I’m looking to collaborate on open source, websites, and creative tech for small businesses.
 - 📫 How to reach me: [kireetisourabhmangalampally@gmail.com](mailto:kireetisourabhmangalampally@gmail.com) | [Instagram: @mk__sourabh](https://instagram.com/mk__sourabh)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love blending tradition with technology!
+- ⚡ Fun fact: I love blending Indian Tradition with Technology!
 
 ---
 
