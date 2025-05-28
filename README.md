@@ -9,7 +9,7 @@
 
 ---
 
-####### 🌟 Featured Project
+### 🌟 Featured Project
 
 - [Sandya Designer Boutique Website](https://sandyadesignerboutique.github.io/Store/)  
   _Designed and developed for my mom, Sandhya Rani Mangalampally.  
