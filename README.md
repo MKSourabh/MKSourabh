@@ -1,9 +1,10 @@
 👋 Hi, I’m @MKSourabh
 
-- 👀 I’m interested in web development, UI/UX, and creative digital projects.
-- 🌱 I’m currently learning advanced JavaScript, React, and cloud deployment.
+- 👀 I’m interested in web development, UI/UX, AI, and creative digital projects.
+- 🌱 I’m currently learning advanced JavaScript, React, cloud deployment, and AI integration techniques.
+- 🤖 I’ve built projects using AI agents to enhance user experience and automate tasks—especially for personal and small business use.
 - 💞️ I’m looking to collaborate on open source, boutique websites, and creative tech for small businesses.
-- 📫 How to reach me: [kireetisourabhmangalampally@gmail.com@gmail.com](mailto:kireetisourabhmangalampally@gmail.com) | [Instagram: @mk__sourabh](https://instagram.com/mk__sourabh)
+- 📫 How to reach me: [kireetisourabhmangalampally@gmail.com](mailto:kireetisourabhmangalampally@gmail.com) | [Instagram: @mk__sourabh](https://instagram.com/mk__sourabh)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love blending tradition with technology!
 
