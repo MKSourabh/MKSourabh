@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Kireeti Sourabh Mangalampally!
 
----
-
 - 👀 I’m interested in web development, UI/UX, AI, and creative digital projects.
 - 🌱 I’m currently learning advanced JavaScript, React, cloud deployment, and AI integration techniques.
 - 🤖 I’ve built projects using AI agents to enhance user experience and automate tasks, especially for personal and small business use.
@@ -11,7 +9,7 @@
 
 ---
 
-### 🌟 Featured Project
+####### 🌟 Featured Project
 
 - [Sandya Designer Boutique Website](https://sandyadesignerboutique.github.io/Store/)  
   _Designed and developed for my mom, Sandhya Rani Mangalampally.  
