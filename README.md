@@ -1,4 +1,4 @@
-👋 Hi, I’m Kireeti Sourabh Mangalampally!
+#👋 Hi, I’m Kireeti Sourabh Mangalampally!
 
 - 👀 I’m interested in web development, UI/UX, AI, and creative digital projects.
 - 🌱 I’m currently learning advanced JavaScript, React, cloud deployment, and AI integration techniques.
