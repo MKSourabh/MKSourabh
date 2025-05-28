@@ -11,13 +11,13 @@
 
 ### 🌟 Featured Project
 
-- [Sandya Designer Boutique Website](https://sandyadesignerboutique.github.io/Store/)  
+- [Sandya Designer Boutique](https://sandyadesignerboutique.github.io/Store/)  
   _Designed and developed for my mom, Sandhya Rani Mangalampally.  
   Specializing in custom Indian ethnic wear, maggam work, and more!_
 
 ---
 
-### 📫 How to reach me
+### 📫 How to reach me?
 
 -  Gmail: [kireetisourabhmangalampally@gmail.com](mailto:kireetisourabhmangalampally@gmail.com)
 -  Instagram: [@mk__sourabh](https://instagram.com/mk__sourabh)
