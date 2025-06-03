@@ -11,7 +11,7 @@
 
 ### 🌟 Featured Project
 
-- [Sandya Designer Boutique](https://sandyadesignerboutique.github.io/Store/)  
+- [Sandya Designer Boutique](https://sandyadesignerboutique.com)  
   _Designed and developed for my mom, Sandhya Rani Mangalampally.  
   Specializing in custom Indian ethnic wear, maggam work, and more!_
 
