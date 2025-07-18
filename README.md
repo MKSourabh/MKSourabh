@@ -13,7 +13,7 @@
 
 - [Sandya Designer Boutique](https://sandyadesignerboutique.com)  
   _Designed and developed an E-Commerce Website for my mom, Sandhya Rani Mangalampally.  
-  Specializing in custom Indian ethnic wear, maggam work, and more!_
+  Specializing in custom Indian Ethnic Wear, Maggam Work, Kids Wear and more!_
 
 ---
 
