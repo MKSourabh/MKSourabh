@@ -15,6 +15,11 @@
   _Designed and developed an E-Commerce Website for my mom, Sandhya Rani Mangalampally.  
   Specializing in custom Indian Ethnic Wear, Maggam Work, Kids Wear and more!_
 
+- [ExpressAI](https://mksourabh.github.io/ExpressAI/)  
+  _ExpressAI is a browser-based AI application that detects and visualizes human emotions in real-time using a webcam.
+  Built with face-api.js, the app leverages deep learning models to analyze facial expressions, predict age and gender,
+  and plot detailed facial landmarks for a rich interactive experience._
+
 ---
 
 ### 📫 How to reach me?
