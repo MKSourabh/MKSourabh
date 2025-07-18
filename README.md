@@ -19,7 +19,7 @@
 
 ### 📫 How to reach me?
 
--  Gmail: [kireetisourabhmangalampally@gmail.com](mailto:kireetisourabhmangalampally@gmail.com)
+-  Gmail: [mkireetisourabh @gmail.com](mailto:mkireetisourabh@gmail.com)
 -  Instagram: [@mk__sourabh](https://instagram.com/mk__sourabh)
 
 ---
