@@ -12,7 +12,7 @@
 ### 🌟 Featured Project
 
 - [Sandya Designer Boutique](https://sandyadesignerboutique.com)  
-  _Designed and developed for my mom, Sandhya Rani Mangalampally.  
+  _Designed and developed an E-Commerce Website for my mom, Sandhya Rani Mangalampally.  
   Specializing in custom Indian ethnic wear, maggam work, and more!_
 
 ---
