@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kireeti Sourabh!
 
 - 😄 Pronouns: he/him.
-- 👨‍💻 Software Developer Intern at Maxsoft IT LLC with prior experience at Tech-Lance Solutions Inc., specializing in scalable backend systems and full-stack web apps.
+- 👨‍💻 Software Developer at Maxsoft IT LLC with prior experience at Tech-Lance Solutions Inc., specializing in scalable backend systems and full-stack web apps.
 - 👀 Passionate about web development, UI/UX, and AI-powered user experiences for small businesses and personal projects.
 - 🤖 Built tools using AI agents, including real-time emotion detection, facial analysis, and automation frameworks to enhance interactivity.
 - 🌱 Currently growing in advanced JavaScript, React, cloud deployment, and AI integration techniques.
