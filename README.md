@@ -1,11 +1,13 @@
-# 👋 Hi, I’m Kireeti Sourabh Mangalampally!
+# 👋 Hi, I’m Kireeti Sourabh!
 
-- 👀 I’m interested in web development, UI/UX, AI, and creative digital projects.
-- 🌱 I’m currently learning advanced JavaScript, React, cloud deployment, and AI integration techniques.
-- 🤖 I’ve built projects using AI agents to enhance user experience and automate tasks, especially for personal and small business use.
-- 🚀 I’m looking to collaborate on open-source projects, websites, and creative tech solutions for small businesses.
-- ⚡ Fun fact: I love blending Tradition with Technology!
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
+- 👨‍💻 Software Developer Intern at Maxsoft IT LLC with prior experience at Tech-Lance Solutions Inc., specializing in scalable backend systems and full-stack web apps.
+- 👀 Passionate about web development, UI/UX, and AI-powered user experiences for small businesses and personal projects.
+- 🤖 Built tools using AI agents, including real-time emotion detection, facial analysis, and automation frameworks to enhance interactivity.
+- 🌱 Currently growing in advanced JavaScript, React, cloud deployment, and AI integration techniques.
+- 🚀 Open to collaborating on open-source tools, e-commerce platforms, and creative tech solutions for entrepreneurs.
+- 🛠️ Skilled in Java, Spring Boot, Kafka, Docker, and Jenkins, with hands-on experience in microservices, observability, and CI/CD.
+- ⚡ Fun fact: I love blending Tradition with Technology — modern interfaces powered by meaningful cultural context.
 
 ---
 
